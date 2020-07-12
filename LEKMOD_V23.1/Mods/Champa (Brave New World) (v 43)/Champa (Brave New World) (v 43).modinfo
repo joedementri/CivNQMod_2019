@@ -81,6 +81,7 @@
     <File md5="542E13B84D070066420E652E229AE8AD" import="1">Art/Improvement/Champa_Gold_Build_45.dds</File>
     <File md5="535EEBE4EDD264CB2EE04D5DFE40CC86" import="1">Art/Improvement/Champa_Gold_Build_64.dds</File>
     <File md5="CADB13D3B8FE5A19520272359515DE9F" import="1">Art/PoBinosaurSceneMod.dds</File>
+	<File md5="21792bf19bcc84d26817b3f3442c3605" import="1">Art/PoBinosaurLeaderHead.xml</File>
     <File md5="E500DB9B2DD7154A7C68DBDAD7880141" import="1">Art/Unit/ChamUnitAlphaAtlas.dds</File>
     <File md5="B1CEF5351ED28207752E7A6637A1FCF7" import="1">Art/Unit/fx_triggers_khmer_elephant.ftsxml</File>
     <File md5="F5E3F1F56C80222114EFA011D0A45DE9" import="1">Art/Unit/KhmerCar_diff.dds</File>

@@ -639,6 +639,8 @@
     <File md5="C470E618B157BF482942BE957A5D4097" import="1">Art/ArtReplacementsNNQMOD/Manchuria/IconAtlas/JFD_GreatQing_IconAtlas_45.dds</File>
     <File md5="D34150EEAC9667E10BC6F84D51B569C9" import="1">Art/ArtReplacementsNNQMOD/Manchuria/IconAtlas/JFD_GreatQing_IconAtlas_64.dds</File>
     <File md5="6C23386E1F5FB4388BC9B34FB57DBC2D" import="1">Art/ArtReplacementsNNQMOD/Manchuria/IconAtlas/JFD_GreatQing_IconAtlas_80.dds</File>
+	<File md5="023938AAD8EDAB6DA644DB37C4B5C527" import="1">Art/ArtReplacementsNNQMOD/Manchuria/Map/Manchu_Diplo.dds</File>
+    <File md5="154DBF376626240B33F7C9B96413D956" import="1">Art/ArtReplacementsNNQMOD/Manchuria/Map/Manchu_Scene.xml</File>
   <!-- Sioux New Art -->
 	<File md5="B45052A13D7839F67F2C8018CC10C09C" import="1">Art/ArtReplacementsNNQMOD/Sioux/Atlas/SiouxModAtlas128.dds</File>
     <File md5="26916D5606F5BBD51EB1B0C27902BC2A" import="1">Art/ArtReplacementsNNQMOD/Sioux/Atlas/SiouxModAtlas214.dds</File>
@@ -649,6 +651,8 @@
     <File md5="4B90013E68425840AC8C9F313EE9C2D5" import="1">Art/ArtReplacementsNNQMOD/Sioux/Atlas/SiouxModAtlas80.dds</File>
 	<File md5="044EDDBFD9C5B1273DC84DDD776045CB" import="1">Art/ArtReplacementsNNQMOD/Sioux/Atlas/SiouxDoMMod.dds</File>
     <File md5="7CD711CB7BED22CA6086696C938334FE" import="1">Art/ArtReplacementsNNQMOD/Sioux/Atlas/SiouxMapMod.dds</File>
+	<File md5="36904FE809AC9C4FBB237370015DBA80" import="1">Art/ArtReplacementsNNQMOD/Sioux/Atlas/SittingBull_Diplo.dds</File>
+    <File md5="6D6301C689B47AEBEDF3F8C2EB4AEE61" import="1">Art/ArtReplacementsNNQMOD/Sioux/Atlas/Sioux_Leaderhead.xml</File>
   <!-- Golden Horde New Art -->
 	<File md5="7C14174F5E772D08679BBCE054C74627" import="1">Art/ArtReplacementsNNQMOD/Golden Horde/Tar_Yuan_Icons_128.dds</File>
     <File md5="3B77FA9E6D588604AAE3DCC45680A0C6" import="1">Art/ArtReplacementsNNQMOD/Golden Horde/Tar_Yuan_Icons_256.dds</File>
@@ -665,6 +669,8 @@
     <File md5="870194A632CE7EA525D2A48E44F3004D" import="1">Art/ArtReplacementsNNQMOD/Goths/JFD_GermansAtlas_80.dds</File>
 	<File md5="17DA7AD6D2EE01711B64460226980E74" import="1">Art/ArtReplacementsNNQMOD/Goths/Arminius_DOM.dds</File>
     <File md5="034CD2D44B5F4C42D20BD5DA61972C10" import="1">Art/ArtReplacementsNNQMOD/Goths/GermansMap512.dds</File>
+	<File md5="E5FB678301B2E6AC5A19D154C229D998" import="1">Art/ArtReplacementsNNQMOD/Goths/Arminius_Diplo.dds</File>
+    <File md5="713FA884BBEBE70E685BAF3606E74076" import="1">Art/ArtReplacementsNNQMOD/Goths/Goths_Alaric_Scene.xml</File>
   <!-- Romania New civ -->
 	<File md5="9F8952BD2BE519BF89ED292A83CEBE3C" import="1">New Civs/Romania/Art/Atlases/MC_RomaniaAlphaAtlas_128.dds</File>
     <File md5="FA90B740F9614DFB32B9AFAE25FDE395" import="1">New Civs/Romania/Art/Atlases/MC_RomaniaAlphaAtlas_16.dds</File>
@@ -1034,6 +1040,8 @@
     <File md5="F7F9EDE972B8B6A0A7229C5C944D4F35" import="1">Art/ArtReplacementsNNQMOD/Timurids/Timurids Atlas Mod/TimuridUnitAlphaAtlas.dds</File>
     <File md5="0FD40F8C4BE5EACE9DE56C17B87F0199" import="1">Art/ArtReplacementsNNQMOD/Timurids/Timurids_DOM_Mod.dds</File>
 	<File md5="DA7918DA76C727DDF096B6D757ECD879" import="1">Art/ArtReplacementsNNQMOD/Timurids/mapTimurids512.dds</File>
+	<File md5="B2B396C46328FC2948546A93F5D09FCA" import="1">Art/ArtReplacementsNNQMOD/Timurids/Timur_Diplo.dds</File>
+	<File md5="E073BA87A084B8177675706A16B524EA" import="1">Art/ArtReplacementsNNQMOD/Timurids/Timurids_Leaderhead.xml</File>
   <!-- Tibet additions art -->
 	<File md5="D6E6B0FB3F7263556EB0028A8A205536" import="1">Art/ArtReplacementsNNQMOD/Tibet/Icon Atlases/HimalayanCavalryFlag.dds</File>
     <File md5="72301AE19B394DCD30103D69C8D33A0B" import="1">Art/ArtReplacementsNNQMOD/Tibet/Icon Atlases/MC_TibetAlphaAtlas_128.dds</File>
@@ -1053,6 +1061,8 @@
     <File md5="8AC8D23CA54D4729C844F0655AD0AB2D" import="1">Art/ArtReplacementsNNQMOD/Tibet/Icon Atlases/MC_TibetAtlas_80.dds</File>
 	<File md5="7D4D6EC4892F94979503C67F7E5D7CD7" import="1">Art/ArtReplacementsNNQMOD/Tibet/Tibet_Map512.dds</File>
 	<File md5="86A3559EC448946C9DED1AB6043EC631" import="1">Art/ArtReplacementsNNQMOD/Tibet/DOM_Tibet.dds</File>
+	<File md5="E0B717664255771E167DB332E8779807" import="1">Art/ArtReplacementsNNQMOD/Tibet/Tibet_Diplo.dds</File>
+	<File md5="C89F669E77E3875174D540D068E33965" import="1">Art/ArtReplacementsNNQMOD/Tibet/Tibet_Gyatso_Scene.xml</File>
   <!-- Kongo additions art -->
 	<File md5="E70E767E5D6A845C2BA3D2C49371C9CE" import="1">Art/ArtReplacementsNNQMOD/Kongo/Icons/JFD_Kongo_AlphaAtlas_128.dds</File>
     <File md5="5B39650517652B078B3408E5B1FCBD20" import="1">Art/ArtReplacementsNNQMOD/Kongo/Icons/JFD_Kongo_AlphaAtlas_16.dds</File>
@@ -1075,6 +1085,8 @@
     <File md5="D2E665F6B269588CF10F19FE789271C9" import="1">Art/ArtReplacementsNNQMOD/Kongo/Icons/Tomatekh_PromotionAtlas_64.dds</File>
 	<File md5="EAA8921E0132CBF4DAB656F4A20E8ABE" import="1">Art/ArtReplacementsNNQMOD/Kongo/Maps/JFD_DOM_Kongo.dds</File>
     <File md5="AB984A1E5F3517C93BED22C58DFDBD3F" import="1">Art/ArtReplacementsNNQMOD/Kongo/Maps/JFD_MapKongo512.dds</File>
+	<File md5="9349C5F185A84B701519AE0D079AABA2" import="1">Art/ArtReplacementsNNQMOD/Kongo/Maps/Kongo_Diplo.dds</File>
+    <File md5="CB9350C2DAD93ADBFD6838E30C493FDD" import="1">Art/ArtReplacementsNNQMOD/Kongo/Maps/Kongo_Nzinga_Scene.xml</File>
   <!-- Jerusalem additions art -->
 	<File md5="F4F3D14604260C3081D46FC899BF019B" import="1">Art/ArtReplacementsNNQMOD/Jerusalem/Atlases/MC_JerusalemAlphaAtlas_128.dds</File>
     <File md5="157FB5588178FBF29EA8E7103EEF2CE0" import="1">Art/ArtReplacementsNNQMOD/Jerusalem/Atlases/MC_JerusalemAlphaAtlas_16.dds</File>
@@ -1100,6 +1112,7 @@
     <File md5="AD4AC513064465CD13837F67FDD72385" import="1">Art/ArtReplacementsNNQMOD/Jerusalem/Scenes/MC_Jerusalem_DOM.dds</File>
     <File md5="E8BBB731C6D502F1FBD78FAEF796E322" import="1">Art/ArtReplacementsNNQMOD/Jerusalem/Scenes/MC_Jerusalem_Map.dds</File>
 	<File md5="AC7A29DB49FEF58D72CCE51C70563901" import="1">Art/ArtReplacementsNNQMOD/Jerusalem/Atlases/MC_JerusalemCruciform_Flag.dds</File>
+	<File md5="5CF5E7BDCA610D6C0F41F5E744C588E9" import="1">Art/ArtReplacementsNNQMOD/Jerusalem/Scenes/Jerusalem_Fulk_Scene.xml</File>
   <!-- Italy additions art -->
     <File md5="1104AB44D6924E8A5404788EAEDE4DE4" import="1">Art/ArtReplacementsNNQMOD/Italy/IconAtlas/JFD_ItalyVE3AlphaAtlas_128.dds</File>
     <File md5="4B79175EA496AE9911FAC0A93DA94BBC" import="1">Art/ArtReplacementsNNQMOD/Italy/IconAtlas/JFD_ItalyVE3AlphaAtlas_16.dds</File>
@@ -1121,6 +1134,8 @@
     <File md5="E89E9197763EC5CA7F97D1A7B2B06C1D" import="1">Art/ArtReplacementsNNQMOD/Italy/IconAtlas/JFD_AndreaDoriaUnitFlag_32.dds</File>
     <File md5="3FC258FE969AF6E5FAD3DD7902F04400" import="1">Art/ArtReplacementsNNQMOD/Italy/Map/Tarcisio_VEIII_DOM.dds</File>
     <File md5="27A20CE1D3501780F9E3FE4C44F6C628" import="1">Art/ArtReplacementsNNQMOD/Italy/Map/Tarcisio_MapItalyVEIII512.dds</File>
+	<File md5="EFDCC7C8E554315857DD96D7FCCF4D99" import="1">Art/ArtReplacementsNNQMOD/Italy/Map/Vittorio_Diplo.dds</File>
+    <File md5="F657D57C80EE5C2987C26BF9CE6746A0" import="1">Art/ArtReplacementsNNQMOD/Italy/Map/Italy_Leaderhead.xml</File>
   <!-- Frank & Sumeria additions art -->
 	<File md5="24530628C568B784FBE6189CE7FA8180" import="1">Art/ArtReplacementsNNQMOD/Franks,Sumeria/Stuff/AlphaLS114Atlas24.dds</File>
     <File md5="1E371BF712108E5E132DFB7044826D15" import="1">Art/ArtReplacementsNNQMOD/Franks,Sumeria/Stuff/AlphaLS114Atlas32.dds</File>
@@ -1149,6 +1164,8 @@
 	<File md5="36E98BC12242229AA156C9D5B6D0A423" import="1">Art/ArtReplacementsNNQMOD/Franks,Sumeria/MapSumerLSMod.dds</File>
 	<File md5="1DE0990821B6F9CC1B75C0467C69BE10" import="1">Art/ArtReplacementsNNQMOD/Franks,Sumeria/DoMSumerLSMod.dds</File>
 	<File md5="939857C44FCEE41361B85850CFF0BA84" import="1">Art/ArtReplacementsNNQMOD/Franks,Sumeria/SumerUnitAlphaAtlas.dds</File>
+	<File md5="7EF8962E53E02E94E633902E39534DB4" import="1">Art/ArtReplacementsNNQMOD/Franks,Sumeria/DiploFranksLSMod2.dds</File>
+	<File md5="E5DDBAFF054B8E0D2D0AF0EFE427D14E" import="1">Art/ArtReplacementsNNQMOD/Franks,Sumeria/Franks_Charlemagne_Scene.xml</File>
   <!-- Canada additions art -->
 	<File md5="0FAC6398E6B9B9063B5A592890FC2FBC" import="1">Art/ArtReplacementsNNQMOD/Canada/Art/JFD_PolandLithuaniaAtlas_128.dds</File>
     <File md5="EFC47428E72197DE8664DF1D5A884B3D" import="1">Art/ArtReplacementsNNQMOD/Canada/Art/JFD_PolandLithuaniaAtlas_256.dds</File>
@@ -1184,6 +1201,7 @@
     <File md5="6DB1D104F283618EDECCD15B1F16A81B" import="1">Art/ArtReplacementsNNQMOD/Canada/Art/hbc80.dds</File>
     <File md5="D67000EC03EE1219052EA17FACAB3669" import="1">Art/ArtReplacementsNNQMOD/Canada/Art/SV_AvroArrow.dds</File>
     <File md5="E0056909A6530303B501D39CDEEDBA8E" import="1">Art/ArtReplacementsNNQMOD/Canada/Art/VoyageurFlag.dds</File>
+	<File md5="46882FA3CDDB6471CE972CDA9292D059" import="1">Art/ArtReplacementsNNQMOD/Canada/Art/Canada_McDonald_Scene.xml</File>
   <!-- Burma  additions art -->
 	<File md5="3DCD33E4279E7E3EB4456B83CF44F95F" import="1">Art/ArtReplacementsNNQMOD/Burma/Atlas/BurmaAlpha_128.dds</File>
     <File md5="FB09FED5BE7704261137A14080208FE4" import="1">Art/ArtReplacementsNNQMOD/Burma/Atlas/BurmaAlpha_16.dds</File>
@@ -1200,6 +1218,8 @@
     <File md5="C7C388B9E9E4ACD9375F9DD6EDB553FA" import="1">Art/ArtReplacementsNNQMOD/Burma/Atlas/BurmaAtlas_80.dds</File>
 	<File md5="AC079FB236393D18CFBEA979AC329009" import="1">Art/ArtReplacementsNNQMOD/Burma/Scenes/Burma_DOM.dds</File>
     <File md5="50655AE9DA1C052A6437CFED3A7D8936" import="1">Art/ArtReplacementsNNQMOD/Burma/Scenes/BurmaMap512.dds</File>
+	<File md5="8E62CCF3FA56B253A9AA8683BCF41BD6" import="1">Art/ArtReplacementsNNQMOD/Burma/Scenes/Burma_Diplo.dds</File>
+	<File md5="74516D5A09043579085D2DA047519B1A" import="1">Art/ArtReplacementsNNQMOD/Burma/Scenes/Burma_Anawratha_Scene.xml</File>
   <!-- Bulgaria & Lithuania additions art -->
 	<File md5="A3D28C92A39CF70ACC0106718A4A978D" import="1">Art/ArtReplacementsNNQMOD/Bulgaria,Lithuania/Rare/BuildingLS6Atlas128.dds</File>
     <File md5="A6563FD2BDF19EC2645DE148FFB90C99" import="1">Art/ArtReplacementsNNQMOD/Bulgaria,Lithuania/Rare/BuildingLS6Atlas256.dds</File>
@@ -1227,6 +1247,10 @@
     <File md5="69E2033607B29DFBC508F0EFA7876CD9" import="1">Art/ArtReplacementsNNQMOD/Bulgaria,Lithuania/Rare/UnitLS6Atlas80.dds</File>
 	<File md5="D6582391E75E59C15A4839A2BE74A6E7" import="1">Art/ArtReplacementsNNQMOD/Bulgaria,Lithuania/Lithuania/DoMLithuaniaLSMod.dds</File>
 	<File md5="37F57A35D584C1A4A5E5DD1FB1D33A3A" import="1">Art/ArtReplacementsNNQMOD/Bulgaria,Lithuania/Lithuania/MapLithuaniaLSMod.dds</File>
+	<File md5="A6DA056033181E205BE35631B4371580" import="1">Art/ArtReplacementsNNQMOD/Bulgaria,Lithuania/Lithuania/Vytatus.dds</File>
+	<File md5="306F672E2BA3BF3C46CA33C662DE718E" import="1">Art/ArtReplacementsNNQMOD/Bulgaria,Lithuania/Lithuania/Lithuania_Leaderhead.xml</File>
+	<File md5="3859756B318DE58D9D7CC369A61E9D03" import="1">Art/ArtReplacementsNNQMOD/Bulgaria,Lithuania/BulgarianEmpire/Asparukh_Diplo.dds</File>
+    <File md5="7D02B215BC8693AF1F389B11B948F20E" import="1">Art/ArtReplacementsNNQMOD/Bulgaria,Lithuania/BulgarianEmpire/Bulgaria_Leaderhead.xml</File>
   <!-- Belgium additions art -->
 	<File md5="FF567DEBFEAA6276AC0BCC87C973C714" import="1">Art/ArtReplacementsNNQMOD/Belgium/IconAtlas/JFD_BelgiumAlphaAtlas_128.dds</File>
     <File md5="8F275D816A0764BF58F170BA86998A80" import="1">Art/ArtReplacementsNNQMOD/Belgium/IconAtlas/JFD_BelgiumAlphaAtlas_16.dds</File>
@@ -1245,6 +1269,8 @@
     <File md5="F3DC7006535C2B464BC3672FA9169448" import="1">Art/ArtReplacementsNNQMOD/Belgium/IconAtlas/JFD_ChasseurUnitFlag_32.dds</File>
 	<File md5="8E63003CC25FA159D47A07E487B0E704" import="1">Art/ArtReplacementsNNQMOD/Belgium/Map/DOM_Albert.dds</File>
     <File md5="E5BB32CD8A2DC8B6185689B7C23A362C" import="1">Art/ArtReplacementsNNQMOD/Belgium/Map/MapBelgium512.dds</File>
+	<File md5="1932FF9802F9A6E0A55C1F265AFC367B" import="1">Art/ArtReplacementsNNQMOD/Belgium/Map/Albert_Diplo.dds</File>
+    <File md5="E30C5AE7D09721C9EE099AC457846F5A" import="1">Art/ArtReplacementsNNQMOD/Belgium/Map/Belgium_Leaderhead.xml</File>
   <!-- Ayyubids additions art -->
 	<File md5="8EF571B195CF1F0541504C749202DED7" import="1">Art/ArtReplacementsNNQMOD/Ayyubids/Atlases/AyyubidAlpha_128.dds</File>
     <File md5="81218C0E92C2E3305CC2D6D029E61F77" import="1">Art/ArtReplacementsNNQMOD/Ayyubids/Atlases/AyyubidAlpha_16.dds</File>
@@ -1283,6 +1309,24 @@
     <File md5="01DE556644E9F8F86823E5F60A80CF44" import="1">Art/ArtReplacementsNNQMOD/Australia/IconAtlases/CL_AustraliaIcons64.dds</File>
     <File md5="430AC898080CE8E70719749E463FCBA2" import="1">Art/ArtReplacementsNNQMOD/Australia/IconAtlases/CL_AustraliaIcons80.dds</File>
     <File md5="4016879D3F5C84E7704D735012D9D4E3" import="1">Art/ArtReplacementsNNQMOD/Australia/IconAtlases/CL_AustraliaUnitFlagIcons32.dds</File>
+	<File md5="84A5FAF7448ECBDF1FCA74863A485959" import="1">Art/Leader/CL_HenryParkes.dds</File>
+    <File md5="B2FCDF485ACFFEA2AFB8A69E380B0FE1" import="1">Art/Leader/fx_triggers_henry_parkes.ftsxml</File>
+    <File md5="46BCA62473B01B2ED39B84BD2C92BBA4" import="1">Art/Leader/henry_parkes.fxsxml</File>
+    <File md5="EBA9AE92870A0D9F0EC51E7B2323AB88" import="1">Art/Leader/henry_parkes.gr2</File>
+    <File md5="2828C439B5CD5EB8EEBF7368E6F9BC16" import="1">Art/Leader/henry_parkes_background.dds</File>
+    <File md5="A2DD9CD6E5AFD4220EB147F55A0A1AC3" import="1">Art/Leader/henry_parkes_clothes_diff.dds</File>
+    <File md5="556CB5A3421B611236E608F973D0C001" import="1">Art/Leader/henry_parkes_clothes_norm.dds</File>
+    <File md5="95D60C6467CE329C3F3A4D75E9232DB8" import="1">Art/Leader/henry_parkes_clothes_sref.dds</File>
+    <File md5="9C939C3C3ED7BA2645A0C9D7530C1C10" import="1">Art/Leader/henry_parkes_hair_diff.dds</File>
+    <File md5="784DFA9A941647CC01E198E4E04996C8" import="1">Art/Leader/henry_parkes_hair_norm.dds</File>
+    <File md5="989EA2A121D888A62201D0661DD9E47E" import="1">Art/Leader/henry_parkes_hair_sref.dds</File>
+    <File md5="422FA0CA046D8F9DDE2C45B0FA1D7236" import="1">Art/Leader/henry_parkes_scene.fxsxml</File>
+    <File md5="EDF056041E47D3582F9D4599A9ED31BD" import="1">Art/Leader/henry_parkes_scene.gr2</File>
+    <File md5="0E77DD0B0C7732821DCDBA57F4709FA1" import="1">Art/Leader/henry_parkes_scene.xml</File>
+    <File md5="262F0A74FD5AED16E3CCD80E1CBF4AB8" import="1">Art/Leader/henry_parkes_skin_blur.dds</File>
+    <File md5="9FB00F0F6A36E61E8672CC053F39889C" import="1">Art/Leader/henry_parkes_skin_diff.dds</File>
+    <File md5="C02AEF364596F8D48AD1739AB64E3840" import="1">Art/Leader/henry_parkes_skin_norm.dds</File>
+    <File md5="A54ED0FB0C8BFFB6BEB34D5C765F2FD8" import="1">Art/Leader/henry_parkes_skin_sref.dds</File>
   <!-- Armenia additions art -->
 	<File md5="6D0937C66B6D29A08954DB3E90F92E30" import="1">Art/ArtReplacementsNNQMOD/Armenia/IconAtlas/JFD_ArmeniaAlphaAtlas_128.dds</File>
     <File md5="9AFD5F5F34E0E8D4464960D0B20B76F6" import="1">Art/ArtReplacementsNNQMOD/Armenia/IconAtlas/JFD_ArmeniaAlphaAtlas_16.dds</File>
@@ -1333,11 +1377,11 @@
     <File md5="4D659AB663CCF9F9FA9D6D3E12447A05" import="1">Art/ArtReplacementsNNQMOD/Nubia/Models/UU/MCLNubiaArcher2_Template.blend</File>
     <File md5="6ED766D9EB04F14C4BE0000946BDE1D8" import="1">Art/ArtReplacementsNNQMOD/Nubia/Models/UU/sv_ApedemakArcher.dds</File>
 	 <File md5="667F8493DB0077ECED3669ED6E156C4D" import="0">Art/ArtReplacementsNNQMOD/Nubia/Models/MC_LITE_Apedemak.sql</File>
+	<File md5="A26A67368EDD54AE1ACB354277111381" import="0">Art/ArtReplacementsNNQMOD/Nubia/Scenes/Nubia_Amanitore_Scene.xml</File>
   <!-- Vietnam additions art -->
 	<File md5="1929DFD8C090FAF71D4CAE49CD3CA5C1" import="1">Art/ArtReplacementsNNQMOD/Vietnam/Art/NamMap.dds</File>
     <File md5="AAB2376679280DD37C7F2448F3E1B1A8" import="1">Art/ArtReplacementsNNQMOD/Vietnam/Art/TrungDOMScreen.dds</File>
     <File md5="B5060C169F9D20AF1A00EB9794397A3A" import="1">Art/ArtReplacementsNNQMOD/Vietnam/Art/VietCongFlag.dds</File>
-    <File md5="F9D50CAEA2E1FB14E5BED7E2ABE0246D" import="1">Art/ArtReplacementsNNQMOD/Vietnam/Art/VietnamDiploScreen.dds</File>
     <File md5="87AA0724A49812B91E77B715B426F8C9" import="1">Art/ArtReplacementsNNQMOD/Vietnam/Art/VietnamIcon128.dds</File>
     <File md5="792ECE80D9D9CFEB508150044B2CC9CB" import="1">Art/ArtReplacementsNNQMOD/Vietnam/Art/VietnamIcon16.dds</File>
     <File md5="F17B738EAF5DEF8948CCEC3C843160B4" import="1">Art/ArtReplacementsNNQMOD/Vietnam/Art/VietnamIcon24.dds</File>
@@ -1355,6 +1399,8 @@
     <File md5="236D1F070E77C0870C56DBAA9217114E" import="1">Art/ArtReplacementsNNQMOD/Vietnam/Art/VietnamIconAlpha48.dds</File>
     <File md5="2993A90159E5654CC90FBB40243A1EBF" import="1">Art/ArtReplacementsNNQMOD/Vietnam/Art/VietnamIconAlpha64.dds</File>
     <File md5="A075EC238427C16F4C1C74836BC8207E" import="1">Art/ArtReplacementsNNQMOD/Vietnam/Art/VietnamIconAlpha80.dds</File>
+	<File md5="5F2D12FFDCB318A1CF08FF7CE299C7EC" import="1">Art/ArtReplacementsNNQMOD/Vietnam/Art/VietnamDiploScreen.dds</File>
+	<File md5="34FDD25D1184D1F996E3DB68331E2DA7" import="1">Art/ArtReplacementsNNQMOD/Vietnam/Art/Vietnam_Leaderhead.xml</File>
 	<!-- -->
     <File md5="90610ABB61DEE694BD310FA69510AE53" import="1">Art/Graphics/Kampung/Coracle_256.dds</File>
     <File md5="FC57BB14E0E85FFF1745668A61CAA7EA" import="1">Art/Graphics/Kampung/southpacific.dds</File>

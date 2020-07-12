@@ -62,6 +62,7 @@
     <File md5="DFE0BCDE1D32880F1F5DDD9E30CFA128" import="1">Art/Scenes/MC_Sparta_Leaderhead.dds</File>
     <File md5="A97F6A171104E29C4669F23A806D02B0" import="1">Art/Scenes/MC_Pergamon_Map.dds</File>
     <File md5="676E39D5ACD10B4B0D1B598233245E7D" import="1">Art/Scenes/MC_Athens_Leaderhead.dds</File>
+	<File md5="8524C4460D5F439690648C70EEBBB2EB" import="1">Art/Scenes/Greece_Pericles_Scene.xml</File>
     <File md5="FB547D0A6A66BAC267D6DBFCDBFD2AD8" import="1">Art/Unit Models/Assault Trieres/Epibatas_Naval.fxsxml</File>
     <File md5="F61DD09C7B805F20505BD7D8F9072A34" import="1">Art/Unit Models/Assault Trieres/Epibatas_Naval.gr2</File>
     <File md5="6C12F30D6991BAB755130EC9EE594463" import="1">Art/Unit Models/Assault Trieres/epibatas_naval_diff.dds</File>

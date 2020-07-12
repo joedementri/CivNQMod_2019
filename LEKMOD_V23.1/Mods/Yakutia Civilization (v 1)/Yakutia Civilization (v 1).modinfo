@@ -82,6 +82,7 @@ Music - The Creative Assembly</Description>
     <File md5="8E46D6497A0B71FA73186A4449F8CDD2" import="0">XML/Text.xml</File>
     <File md5="618EECCFD2158EA0D207A8B667E1DF9D" import="1">XML/Tygyn_Scene.xml</File>
     <File md5="AF7791020317F0CA2DE56369066D6F93" import="0">XML/Units.xml</File>
+	<File md5="24B708FD10ED4FB031C3A9EB5A33ADF9" import="1">Art/Golden_Batu_Scene.xml</File>
   </Files>
   <Actions>
     <OnModActivated>
